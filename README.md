@@ -35,6 +35,8 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 
 ## Project Setup
 
+for initial commit
+
 Follow these steps to set up your project:
 
 - [ ] Create a forked copy of this project.
